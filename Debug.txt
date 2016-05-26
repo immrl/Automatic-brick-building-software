@@ -1,0 +1,10 @@
+start reset lego
+reset lego:(7.0, 15.0, 5.0)
+reset lego:(7.0, 15.0, 6.0)
+reset lego:(7.0, 15.0, 7.0)
+reset lego:(7.0, 15.0, 8.0)
+add neighbour lego:(7.0, 15.0, 5.0)
+add neighbour lego:(7.0, 15.0, 6.0)
+add neighbour lego:(7.0, 15.0, 7.0)
+add neighbour lego:(7.0, 15.0, 8.0)
+reset finish

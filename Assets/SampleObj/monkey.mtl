@@ -1,0 +1,13 @@
+# Blender3D MTL File: monkey.blend
+# Material Count: 1
+newmtl Suzmat
+Ns 156.862745
+Ka 0.182951 0.182951 0.182951
+Kd 0.800000 0.000000 0.000000
+Ks 0.080698 0.000000 1.089968
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex.jpg
+
+

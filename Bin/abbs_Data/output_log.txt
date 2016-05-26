@@ -1,0 +1,623 @@
+Mono path[0] = 'C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Managed'
+Mono path[1] = 'C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono'
+Mono config path = 'C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55177
+Multi-casting "[IP] 192.168.56.1 [Port] 55177 [Flags] 3 [Guid] 8556840 [EditorId] 657682848 [Version] 1048832 [Id] WindowsPlayer(sunny-pc) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.56.1:55177]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56840
+PlayerConnection already initialized - listening to [192.168.56.1:55177]
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M  (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libc
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libc
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libc
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libc
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\libX11
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/libX11
+Platform assembly: C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Bin\abbs_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Bin/abbs_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+UnloadTime: 0.656874 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2490 -> priority: 1 
+Selected file with full path: C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\RX78-2\RX-78-2 Gundam - Ren.obj
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OBJ:OnGUI() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:114)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 114)
+
+C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\RX78-2\RX-78-2 Gundam - Ren.obj
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OBJ:OnGUI() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:125)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 125)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 15.8 MB.
+System memory in use after: 15.9 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 1.048945 ms (FindLiveObjects: 0.025453 ms CreateObjectMapping: 0.025453 ms MarkObjects: 0.978742 ms  DeleteObjects: 0.008621 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 15.8 MB.
+System memory in use after: 15.8 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 1.102727 ms (FindLiveObjects: 0.024632 ms CreateObjectMapping: 0.022990 ms MarkObjects: 1.050177 ms  DeleteObjects: 0.003694 ms)
+
+file:///C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\RX78-2\Gundam.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<Load>c__Iterator2:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:276)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 276)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 16.4 MB.
+System memory in use after: 16.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 6.014502 ms (FindLiveObjects: 0.032433 ms CreateObjectMapping: 0.018064 ms MarkObjects: 5.950868 ms  DeleteObjects: 0.011905 ms)
+
+4754
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:519)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 519)
+
+getpixels
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:524)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 524)
+
+end of voxelize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:525)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 525)
+
+45730
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:581)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 581)
+
+91460
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:602)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 602)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:606)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 606)
+
+84220
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:770)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 770)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.9 MB.
+System memory in use after: 70.0 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 152.135727 ms (FindLiveObjects: 0.027506 ms CreateObjectMapping: 0.017653 ms MarkObjects: 152.084000 ms  DeleteObjects: 0.004926 ms)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1296)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1296)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1352)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1352)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1393)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1393)
+
+unconnected Lego:34
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1536)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1536)
+
+27759
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1568)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1568)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+End of Legoization with UI
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1585)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1585)
+
+System memory in use before: 92.6 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 543.
+Total: 109.195457 ms (FindLiveObjects: 0.025453 ms CreateObjectMapping: 0.016832 ms MarkObjects: 109.144135 ms  DeleteObjects: 0.008621 ms)
+
+Selected file with full path: C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\Force Impulse Gundam\ZGMF-X56Sa Force Impulse Gundam - Ren.obj
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OBJ:OnGUI() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:114)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 114)
+
+C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\Force Impulse Gundam\ZGMF-X56Sa Force Impulse Gundam - Ren.obj
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OBJ:OnGUI() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:125)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 125)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.4 MB.
+System memory in use after: 16.3 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 119.731308 ms (FindLiveObjects: 0.027506 ms CreateObjectMapping: 0.027506 ms MarkObjects: 112.690025 ms  DeleteObjects: 6.985855 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 105.030052 ms (FindLiveObjects: 0.017242 ms CreateObjectMapping: 0.018064 ms MarkObjects: 104.988998 ms  DeleteObjects: 0.004926 ms)
+
+file:///C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\Force Impulse Gundam\Impulse_Gundam.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<Load>c__Iterator2:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:276)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 276)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 16.8 MB.
+System memory in use after: 16.8 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 105.908218 ms (FindLiveObjects: 0.023401 ms CreateObjectMapping: 0.027917 ms MarkObjects: 105.837601 ms  DeleteObjects: 0.018064 ms)
+
+3296
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:519)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 519)
+
+getpixels
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:524)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 524)
+
+end of voxelize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:525)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 525)
+
+34997
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:581)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 581)
+
+69994
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:602)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 602)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:606)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 606)
+
+46198
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:770)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 770)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 143.406265 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.015600 ms MarkObjects: 143.363159 ms  DeleteObjects: 0.006158 ms)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1296)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1296)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1352)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1352)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1393)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1393)
+
+unconnected Lego:71
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1536)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1536)
+
+20102
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1568)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1568)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 513.
+Total: 76.150177 ms (FindLiveObjects: 0.022990 ms CreateObjectMapping: 0.015190 ms MarkObjects: 76.102966 ms  DeleteObjects: 0.008210 ms)
+
+End of Legoization with UI
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1585)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1585)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.7 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 74.231689 ms (FindLiveObjects: 0.030790 ms CreateObjectMapping: 0.024222 ms MarkObjects: 69.347427 ms  DeleteObjects: 4.828024 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 16.2 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 72.034447 ms (FindLiveObjects: 0.019295 ms CreateObjectMapping: 0.015600 ms MarkObjects: 71.994621 ms  DeleteObjects: 0.004105 ms)
+
+file:///C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\Force Impulse Gundam\Impulse_Gundam.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<Load>c__Iterator2:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:276)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 276)
+
+Selected file with full path: C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\pumba1\pumba.obj
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OBJ:OnGUI() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:114)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 114)
+
+C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\pumba1\pumba.obj
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OBJ:OnGUI() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:125)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 125)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 16.8 MB.
+System memory in use after: 16.4 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 67.845230 ms (FindLiveObjects: 0.027917 ms CreateObjectMapping: 0.018885 ms MarkObjects: 67.766411 ms  DeleteObjects: 0.030790 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 16.1 MB.
+System memory in use after: 16.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 69.447189 ms (FindLiveObjects: 0.019295 ms CreateObjectMapping: 0.013548 ms MarkObjects: 69.409416 ms  DeleteObjects: 0.004105 ms)
+
+file:///C:\Users\puisan\Desktop\FYP\Automatic Brick Building Software\Assets\SampleObj\pumba1\0000.png
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<Load>c__Iterator2:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\OBJ\OBJ.cs:276)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/OBJ/OBJ.cs Line: 276)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 33.6 MB.
+System memory in use after: 33.6 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 74.175858 ms (FindLiveObjects: 0.017653 ms CreateObjectMapping: 0.016421 ms MarkObjects: 74.124130 ms  DeleteObjects: 0.016832 ms)
+
+1795
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:519)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 519)
+
+getpixels
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:524)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 524)
+
+end of voxelize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:525)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 525)
+
+37352
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:581)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 581)
+
+74704
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:602)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 602)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:606)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 606)
+
+209356
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<voxelize>c__Iterator4:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Voxelization\Voxelizer.cs:770)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Voxelization/Voxelizer.cs Line: 770)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 395.029266 ms (FindLiveObjects: 0.029148 ms CreateObjectMapping: 0.023401 ms MarkObjects: 394.968079 ms  DeleteObjects: 0.006979 ms)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1296)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1296)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1352)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1352)
+
+True
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1393)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1393)
+
+unconnected Lego:1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1536)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1536)
+
+23745
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1568)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1568)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+End of Legoization with UI
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssemblyCSharp.<Legoize>c__Iterator0:MoveNext() (at C:\Users\puisan\workspace\Unity\Automatic Brick Building Software\Assets\script\Legoization\Legoizer.cs:1585)
+ 
+(Filename: C:/Users/puisan/workspace/Unity/Automatic Brick Building Software/Assets/script/Legoization/Legoizer.cs Line: 1585)
+
+System memory in use before: 96.5 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 487.
+Total: 166.228943 ms (FindLiveObjects: 0.021758 ms CreateObjectMapping: 0.014369 ms MarkObjects: 166.182556 ms  DeleteObjects: 0.009032 ms)
+
